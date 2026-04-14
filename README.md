@@ -12,14 +12,14 @@ A simple Python project to remove background from images using AI.
 - Image Processing / AI
 
 ## 📂 Project Structure
-main.py        # Main script  
+app.py        # Main script  
 requirements.txt  
 README.md  
 
 ## ⚙️ Installation
 
 1. Clone the repository
-git clone https://github.com/Sheth3433/background_remove
+git clone https://github.com/Sheth3433/background_remover
 
 2. Go to project folder
 cd background_remove
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 Run the main file:
-python main.py
+python app.py
 
 ## 📌 Output
 - Generates image with background removed
